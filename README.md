@@ -175,7 +175,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Atip Yongstar - [@your_twitter](https://twitter.com/your_username) - atipdev.y@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/cantidentify/devconnector)
+Project Link: [https://github.com/cantidentify/devconnector](https://github.com/cantidentify/devconnector)
 
 
 
