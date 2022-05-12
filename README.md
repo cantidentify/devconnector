@@ -216,6 +216,9 @@ Project Link: [https://github.com/cantidentify/devconnector](https://github.com/
 
 // --- selft
 ## About The Project
+
+![project_sample](index_page_sample.png)
+
 This project is part of learning full stack course on udemy using MERN stack. In this course there are two important parts,
 * First is back-end, by using express, express is a minimal and flexible Node.js web application framework. You can learn more about express framwork by this link [Express.js](https://expressjs.com/)
 * Second is fron-end, by using react, react is javaScript library created by Jordan Walke, a software engineer at Facebook. You can learn more about react by this link [React.js](https://reactjs.org/)
